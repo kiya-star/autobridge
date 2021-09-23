@@ -1,6 +1,6 @@
 /**
  * backend rest api handle users request & response specifically for user information
- * Author abebaw ,beza lidet & tarik
+ * Author tarik
  * Last Modified Date: feb 27 , 2021
  */
 

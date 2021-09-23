@@ -1,6 +1,7 @@
 /**
  * backend rest api handle users request & response specifically for product
- * Author abebaw ,beza lidet & tarik
+ * Author  tarik
+ * address: Addis Ababa
  * Last Modified Date: feb 27 , 2021
  */
 const mysql = require('mysql');

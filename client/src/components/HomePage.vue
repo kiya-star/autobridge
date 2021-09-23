@@ -4,7 +4,7 @@
           This web application is a single page application 
           the page is devided into multiple components & rendered as per user request,
           it communicates with the backend api.
-          Author:abebaw ,beza lidet & tarik
+          Author:tarik
           Last Modified Date: feb 27 , 2021
 
 
